@@ -4,7 +4,7 @@ This is the place in where we share the list of references we use to keep develo
 [ViaRE](https://github.com/daque-dev/viare).
 
 ## Content
-- [The proccess](#the-process) (how to add more references to this repo)
+- [The proccess](#the-proccess) (how to add more references to this repo)
 
 ## The proccess
 
