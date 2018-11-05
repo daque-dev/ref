@@ -15,10 +15,10 @@ may be useful to keep generating ideas, getting context, or keeping us intereste
 When we skim the table of contents or something similar, we should take note of what
 the book could give to ViaRe, and then the book makes it to the `finding list`.
 
-- **Note-taking**: When any member of [Daque](https://github.com/orgs/daque-dev/people)
-starts to read an item inside `finding list`, he/she must start to take notes on that
+- **Note-taking**: When any member or contributor of [Daque](https://github.com/orgs/daque-dev/people)
+starts to read an item inside `finding list`, they must start to take notes on that
 item. If a file of notes on that item already exists, it should add the notes under
-a subtitle with the contributor's name.
+a subtitle with their name.
 
 - **Referencing notes**: Every file with notes must be referenced from this file, under
 the category (or categories) it fits better in. If no category seems appropiate, it
