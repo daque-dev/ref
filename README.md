@@ -13,7 +13,7 @@ Every reference we find must go through this proccess:
 - **The Finding**: We find a book, website, article, magazine, etc. that we consider
 may be useful to keep generating ideas, getting context, or keeping us interested.
 When we skim the table of contents or something similar, we should take note of what
-the book could give to ViaRe, and then the book makes it to the `finding list`.
+the book could give to ViaRe, and then add it to `FINDING.md`.
 
 - **Note-taking**: When any member or contributor of [Daque](https://github.com/orgs/daque-dev/people)
 starts to read an item inside `finding list`, they must start to take notes on that
