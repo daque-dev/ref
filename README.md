@@ -35,16 +35,35 @@ to take notes on that item.
 To start taking notes, you create a file inside `/reading` or `/viare/reading`. 
 The name of the file will be `{Author's Surname}{Year} - {Title}.tex`. If that file
 already exists, it must mean that someone already started taking notes. In such case,
-you should add your name as a subtitle at the end of the file, and start taking notes in there.
+you should add `\subsection{ {username} }` at the end of the file, and start taking
+notes in there.
 
 Example filenames:
 
 - `/reading/Kleinberg2005-Algorithm-design.tex`
 - `/viare/reading/Ilachinski2004-Artificial-war.tex`
 
+
+Example file content:
+
+```latex
+% ...
+
+\begin{document}
+% ...
+
+\section{quevangel}
+% {notes}
+
+\section{davidomarf}
+% {notes}
+```
+
 ---
 
-A note must be added to the book entry in `/to-read.md` or `/viare/to-read.md` indicating your name and the date you started reading it in format YYYY-MM-DD. For example:
+A note must be added to the book entry in `/to-read.md` or `/viare/to-read.md`
+indicating your name and the date you started reading it in format YYYY-M   M-DD.
+For example:
 
 `- {Book entry} | David, 2019-02-20`
 
